@@ -19,7 +19,7 @@ $ apt install bash
 
 $ apt install wget
 
-$ git clone  ttps://github.com/chshahzaibking/Ch_Shahzaib_arain_king.git
+$ git clone  https://github.com/chshahzaibking/Ch_Shahzaib_arain_king.git
 
 $ cd CH_Shahzaib
 
